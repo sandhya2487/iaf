@@ -1,0 +1,55 @@
+.wrap{
+    position: relative;
+}
+.main{
+      background: url(../image/wallhaven-237425.png);
+      background-repeat: no-repeat;
+      width: 100%;
+      height: 100%;
+}
+blockquote{
+  font-family: 'Lato', sans-serif;
+  text-align: center;
+  width: 600px;
+  font-size: 30px;
+  font-weight:bold;
+  color: black;
+  margin-top: 10%;
+  margin-left: 300px;
+}
+p{
+  width: 40px;
+  display: inline;
+}
+.nav{
+  float: right;
+  margin-top: 0px;
+  width: 1366px;
+}
+li{
+  float: right;
+  display: inline;
+  font-family: 'Lato', sans-serif;
+  font-weight: bold;
+  font-size: 18px;
+  margin-right: 40px;
+  margin-top: 0px;
+}
+a{
+color: black;
+}
+a:hover{
+color:  #E5E7E9;
+}
+ul a{
+  text-decoration: none;
+}
+.footer{
+  margin-top: 20%;
+  width: 100%;
+  background-color: #DC7633;
+}
+.footer img{
+  width: 40px;
+  height: 40px;
+}
