@@ -6,7 +6,7 @@ header
 {
   overflow: hidden;
   background: #04659D  ;
-  opacity: 0.7;
+  opacity: 0.8;
   width: 100%;
   position: fixed;
 }
@@ -85,10 +85,11 @@ blockquote
 {
   margin-top: 20px;
   margin-left: 40px;
-
 }
+
 footer
 {
+  overflow: hidden;
   padding-top: 0px;
   clear: both;
   width: 100%;
@@ -98,6 +99,7 @@ footer
 {
   color: black;
   text-decoration: none;
+  font-size: 14px;
 }
 
 .container a
@@ -134,5 +136,11 @@ h6
   background-size: cover;
   width: 1000px;
   height: 120%;
-
+}
+.copyright
+{
+font-size: 12px;
+font-weight: 200;
+float: left;
+background-color: #04659D;
 }
